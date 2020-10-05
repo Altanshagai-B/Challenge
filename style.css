@@ -246,24 +246,24 @@ body {
 }
 .number {
   text-align: center;
-  width: 2rem;
+  width: 1rem;
 }
 .fullname {
   text-align: center;
-  width: 20rem;
+  width: 18rem;
 }
 .total1 {
   text-align: center;
 
-  width: 5rem;
+  width: 3rem;
 }
 .total2 {
   text-align: center;
-  width: 5rem;
+  width: 3rem;
 }
 .grandtotal {
   text-align: center;
-  width: 5rem;
+  width: 3rem;
 }
 .number,
 .fullname,
