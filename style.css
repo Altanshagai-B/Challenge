@@ -250,20 +250,20 @@ body {
 }
 .fullname {
   text-align: center;
-  width: 18rem;
+  width: 19rem;
 }
 .total1 {
   text-align: center;
 
-  width: 4rem;
+  width: 6rem;
 }
 .total2 {
   text-align: center;
-  width: 4rem;
+  width: 6rem;
 }
 .grandtotal {
   text-align: center;
-  width: 4rem;
+  width: 5rem;
 }
 .number,
 .fullname,
