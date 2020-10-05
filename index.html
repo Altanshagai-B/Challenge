@@ -1,0 +1,143 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.14.5/xlsx.full.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>Сургалтын Статус Шалгах</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="header">
+        <!-- <div class="search">
+          <input type="text" class="search__field" placeholder="САП аа оруул" />
+          <button class="btn search__btn">Хайх</button>
+        </div> -->
+      </div>
+
+      <div class="results">
+        <div class="challengeName">Гэдэсний булчингаа хөгжүүлье.</div>
+        <div class="desc"></div>
+      </div>
+      <div class="gender">Эмэгтэй оролцогчид</div>
+      <div id="emegtei" class="emegteiList">
+        <div class="emlist">
+          <div class="number">№</div>
+          <div class="fullname">Нэр</div>
+          <div class="total1">1-р хэсэг</div>
+          <div class="total2">2-р хэсэг</div>
+          <div class="grandtotal">Нийт</div>
+        </div>  
+        <div class="emlist">
+          <div class="number">1</div>
+          <div class="fullname">Navchaa Ganbaatar</div>
+          <div class="total1">100</div>
+          <div class="total2">65</div>
+          <div class="grandtotal">165</div>
+        </div>
+      </div>
+      <div class="gender">Эрэгтэй оролцогчид</div>
+      <div id="eregtei" class="eregteiList">
+        <div class="erlist">
+          <div class="number">№</div>
+          <div class="fullname">Нэр</div>
+          <div class="total1">1-р хэсэг</div>
+          <div class="total2">2-р хэсэг</div>
+          <div class="grandtotal">Нийт</div>
+        </div>  
+        <!-- <div class="erlist">
+          <div class="number">19</div>
+          <div class="fullname">Altanshagai Byambasuren</div>
+          <div class="total1">100</div>
+          <div class="total2">200</div>
+          <div class="grandtotal">300</div>
+        </div> -->
+      </div>
+      <div id="nemeh" class="list">
+        <!-- <div class="list_view clearfix">
+          <div class="qualification">sdfdweag</div>
+          <div class="right clearfix">
+            <div class="expiry_date">2020</div>
+          </div>
+        </div>
+        <div class="list_view clearfix">
+          <div class="qualification">sdfdweag</div>
+          <div class="right clearfix">
+            <div class="expiry_date">2020</div>
+          </div>
+        </div> -->
+      </div>
+      <!-- <table class="results__list">
+          <tr class="result__row">
+            <th class="trainingName">Сургалтын Нэр</th>
+            <th class="expire">Дуусах хугацаа</th>
+          </tr>
+           Сургалтын лист энд гарна
+          <tr class="result__row">
+            <th class="trainingList">OT induction</th>
+            <th class="dateExp">2/8/2020</th>
+          </tr>
+          <tr class="result__row">
+            <th class="trainingList">
+              Personal Lock Holder
+            </th>
+            <th class="dateExp">10/8/2020</th>
+          </tr>
+          <tr class="result__row">
+            <th class="trainingList">CRM for Team</th>
+            <th class="dateExp">2/28/2021</th>
+          </tr>
+        </table> -->
+        <div id="vocUstgah" class="vocHaruulah">
+          <!-- <div class="voc">
+            <div class="eqType">Telehandler</div>
+            <div class="eqbrand">Bobcat</div>
+            <div class="eqModel">TH5020</div>
+            <div class="expiryDate">4/4/2021</div>
+          </div> -->
+          <!-- <div class="voc">
+            <div class="surgaltDate">15-Aug</div>
+            <div class="surgaltName">Refuge Chamber</div>
+            <div class="venue">Shaft 1 GCR Prestart meeting room</div>
+            <div class="hours">08:00-17:00</div>
+          </div> -->
+        </div>
+        <div class="notif">
+          <!-- <div class="news">
+          Хэрэв танд ходоод гэдэсний цочмог халдварт өвчний дараах шинж тэмдэг илэрвэл ажилдаа явахаасаа өмнө уурхайн эмнэлэгт яаралтай үзүүлнэ үү.
+          <ul>
+            <li>Хөнгөн суулгалт</li>
+            <li>Бөөлжих</li>
+            <li>Халуурах</li>
+            <li>Дотор муухайрах</li>
+            <li>Хэвлийгээр өвдөх</li>
+            <li>Гэдэс базлах</li>
+            <li>Толгой өвдөх</li>
+            <li>Булчингаар өвдөх</li>
+          </ul>
+          Эдгээр шинж тэмдэгүүдийг мэдэж, хувийн ариун цэврийг сахих нь халдварт өвчний эрсдэлийг бууруулна
+          </div>   -->
+          <div class="covid">ЭРҮҮЛ БИЕД САРУУЛ УХААН</div>
+        </div>
+        </div>
+        
+    </div>
+    <div class="developed">
+      Developed by
+      <a href="https://www.instagram.com/b_altanshagai/" target="_blank"
+        >Altanshagai</a
+      >
+    </div>
+    <script type="text/javascript" src="real.js"></script>
+  </body>
+</html>
