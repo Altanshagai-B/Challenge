@@ -56,7 +56,7 @@ var emegtei = [
     grandFinal: 0,
   },
   {
-    fullName: "Saran-Erdene Tsedev-Oidov",
+    fullName: "Saran-Erdene Tseyen-Oidov",
     day1: 10,
     day2: 0,
     day3: 0,
