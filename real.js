@@ -2,7 +2,7 @@ var emegtei = [
   {
     fullName: "Navchaa Ganbaatar",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -16,7 +16,7 @@ var emegtei = [
   {
     fullName: "Khaliun Ganzorigt",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -30,7 +30,7 @@ var emegtei = [
   {
     fullName: "Bolorchimeg Darinchuluun",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -44,7 +44,7 @@ var emegtei = [
   {
     fullName: "Khaliun Bolor-Erdene",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -58,7 +58,7 @@ var emegtei = [
   {
     fullName: "Saran-Erdene Tseyen-Oidov",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -88,7 +88,7 @@ var user1 = [
   {
     fullName: "Jargal Gankhuyag",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -102,7 +102,7 @@ var user1 = [
   {
     fullName: "Unurragchaa Dorjpalam",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -116,7 +116,7 @@ var user1 = [
   {
     fullName: "Ugtakhbayar Bazarsad",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -130,7 +130,7 @@ var user1 = [
   {
     fullName: "Bayarsaikhan Davaasuren",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -144,7 +144,7 @@ var user1 = [
   {
     fullName: "Ulaankhuu Otgonbayar",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -158,7 +158,7 @@ var user1 = [
   {
     fullName: "Choijilsuren Sarantuya",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -172,7 +172,7 @@ var user1 = [
   {
     fullName: "Nergui Badamdorj",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -186,7 +186,7 @@ var user1 = [
   {
     fullName: "Nemekhjargal Anjaa",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -200,7 +200,7 @@ var user1 = [
   {
     fullName: "Davaakhuu Gankhuyag",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -214,7 +214,7 @@ var user1 = [
   {
     fullName: "Gantumur Sanjaa",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -228,7 +228,7 @@ var user1 = [
   {
     fullName: "Mungun Togtokh",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -242,7 +242,7 @@ var user1 = [
   {
     fullName: "Banzragch Batdorj",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -256,7 +256,7 @@ var user1 = [
   {
     fullName: "Altanshagai Byambasuren",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -270,7 +270,7 @@ var user1 = [
   {
     fullName: "Bayasgalan Tseveen",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -284,7 +284,7 @@ var user1 = [
   {
     fullName: "Enkhbat Itgelt",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -312,7 +312,7 @@ var user1 = [
   {
     fullName: "Munkhbayar Batjargal",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -326,7 +326,7 @@ var user1 = [
   {
     fullName: "Narmandakh Maam",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -340,7 +340,7 @@ var user1 = [
   {
     fullName: "Tsatsralt Gerelkhuu",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -354,7 +354,7 @@ var user1 = [
   {
     fullName: "Gansukh Lkhasuren",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -368,7 +368,7 @@ var user1 = [
   {
     fullName: "Altangerel Sangidash",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -382,7 +382,7 @@ var user1 = [
   {
     fullName: "Uuganbayar Tavanjin",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -396,7 +396,7 @@ var user1 = [
   {
     fullName: "Otgonbayar Shirnen",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -410,7 +410,7 @@ var user1 = [
   {
     fullName: "Munkh-Orgil Narantsetseg",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -424,7 +424,7 @@ var user1 = [
   {
     fullName: "Tumurkhuyag Saarai",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -438,7 +438,7 @@ var user1 = [
   {
     fullName: "Baigal-Amar Khuderbold",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -452,7 +452,7 @@ var user1 = [
   {
     fullName: "Gansukh Algaa",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -466,7 +466,7 @@ var user1 = [
   {
     fullName: "Lkhagvasuren Bold",
     day1: 10,
-    day2: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
@@ -480,7 +480,35 @@ var user1 = [
   {
     fullName: "Bulgantamir Gonchigsuren",
     day1: 10,
-    day2: 0,
+    day2: 10,
+    day3: 0,
+    day4: 0,
+    day5: 0,
+    day6: 0,
+    day7: 0,
+    day8: 0,
+    day9: 0,
+    day10: 0,
+    grandFinal: 0,
+  },
+  {
+    fullName: "khureltogoo Gantsogt",
+    day1: 0,
+    day2: 10,
+    day3: 0,
+    day4: 0,
+    day5: 0,
+    day6: 0,
+    day7: 0,
+    day8: 0,
+    day9: 0,
+    day10: 0,
+    grandFinal: 0,
+  },
+  {
+    fullName: "Batzaya Enkhbold",
+    day1: 0,
+    day2: 10,
     day3: 0,
     day4: 0,
     day5: 0,
