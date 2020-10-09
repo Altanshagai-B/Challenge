@@ -299,7 +299,7 @@ var user1 = [
     fullName: "Enkhbat Itgelt",
     day1: 10,
     day2: 10,
-    day3: 1 0,
+    day3: 10,
     day4: 0,
     day5: 0,
     day6: 0,
