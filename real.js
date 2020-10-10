@@ -506,7 +506,7 @@ var user1 = [
     grandFinal: 0,
   },
   {
-    fullName: "khureltogoo Gantsogt",
+    fullName: "Khureltogoo Gantsogt",
     day1: 0,
     day2: 10,
     day3: 10,
