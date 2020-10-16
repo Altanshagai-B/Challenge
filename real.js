@@ -475,7 +475,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 35,
   },
   {
     fullName: "Baigal-Amar Khuderbold",
