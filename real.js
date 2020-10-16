@@ -11,7 +11,7 @@ var emegtei = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 35,
   },
   {
     fullName: "Khaliun Ganzorigt",
@@ -25,7 +25,7 @@ var emegtei = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 26,
   },
   {
     fullName: "Bolorchimeg Darinchuluun",
@@ -39,7 +39,7 @@ var emegtei = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 22,
   },
   {
     fullName: "Khaliun Bolor-Erdene",
@@ -53,7 +53,7 @@ var emegtei = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 27,
   },
   {
     fullName: "Saran-Erdene Tseyen-Oidov",
@@ -81,7 +81,7 @@ var emegtei = [
     day8: 0,
     day9: 10,
     day10: 0,
-    grandFinal: 0,
+    grandFinal: 24,
   },
   {
     fullName: "Uranchimeg Galbadrakh",
@@ -153,7 +153,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 63,
   },
   {
     fullName: "Ugtakhbayar Bazarsad",
@@ -167,7 +167,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 56,
   },
   {
     fullName: "Bayarsaikhan Davaasuren",
@@ -181,7 +181,7 @@ var user1 = [
     day8: 10,
     day9: 0,
     day10: 0,
-    grandFinal: 0,
+    grandFinal: 52,
   },
   {
     fullName: "Ulaankhuu Otgonbayar",
@@ -195,7 +195,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 35,
   },
   {
     fullName: "Choijilsuren Sarantuya",
@@ -223,7 +223,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 48,
   },
   {
     fullName: "Nemekhjargal Anjaa",
@@ -237,7 +237,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 28,
   },
   {
     fullName: "Davaakhuu Gankhuyag",
@@ -251,7 +251,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 53,
   },
   {
     fullName: "Gantumur Sanjaa",
@@ -293,7 +293,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 40,
   },
   {
     fullName: "Altanshagai Byambasuren",
@@ -307,7 +307,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 29,
   },
   {
     fullName: "Bayasgalan Tseveen",
@@ -335,7 +335,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 30,
   },
   {
     fullName: "Khuvnagvaral Boldbaatar",
@@ -363,7 +363,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 33,
   },
   {
     fullName: "Narmandakh Maam",
@@ -405,7 +405,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 42,
   },
   {
     fullName: "Altangerel Sangidash",
@@ -419,7 +419,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 19,
   },
   {
     fullName: "Uuganbayar Tavanjin",
@@ -433,7 +433,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 65,
   },
   {
     fullName: "Otgonbayar Shirnen",
@@ -447,7 +447,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 29,
   },
   {
     fullName: "Munkh-Orgil Narantsetseg",
@@ -461,7 +461,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 30,
   },
   {
     fullName: "Tumurkhuyag Saarai",
@@ -489,7 +489,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 21,
   },
   {
     fullName: "Gansukh Algaa",
@@ -531,7 +531,7 @@ var user1 = [
     day8: 10,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 40,
   },
   {
     fullName: "Khureltogoo Gantsogt",
@@ -559,7 +559,7 @@ var user1 = [
     day8: 10,
     day9: 0,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 37,
   },
   {
     fullName: "Khaliunbaatar Batdorj",
@@ -601,7 +601,7 @@ var user1 = [
     day8: 0,
     day9: 10,
     day10: 10,
-    grandFinal: 0,
+    grandFinal: 19,
   },
   {
     fullName: "Mungunbaatar Banzragch",
@@ -698,6 +698,17 @@ console.log(people2);
 
 //ui ruu
 for (let i = 0; i < people2.length; i++) {
+  if(i<4){
+    html =
+    '<div class="erlistwinner"><div class="number">$$number$$</div><div class="fullname">$$name$$</div><div class="total1">$$one$$</div><div class="total2">$$two$$</div><div class="grandtotal">$$all$$</div></div>';
+  html = html.replace("$$number$$", i + 1);
+  html = html.replace("$$name$$", people2[i].fullName);
+  html = html.replace("$$one$$", people2[i].total1);
+  html = html.replace("$$two$$", people2[i].grandFinal);
+  html = html.replace("$$all$$", people2[i].total);
+  document.querySelector(".eregteiList").insertAdjacentHTML("beforeend", html);
+
+  }else{
   html =
     '<div class="erlist"><div class="number">$$number$$</div><div class="fullname">$$name$$</div><div class="total1">$$one$$</div><div class="total2">$$two$$</div><div class="grandtotal">$$all$$</div></div>';
   html = html.replace("$$number$$", i + 1);
@@ -706,8 +717,19 @@ for (let i = 0; i < people2.length; i++) {
   html = html.replace("$$two$$", people2[i].grandFinal);
   html = html.replace("$$all$$", people2[i].total);
   document.querySelector(".eregteiList").insertAdjacentHTML("beforeend", html);
+  }
 }
 for (let i = 0; i < people1.length; i++) {
+  if(i<2){
+    html =
+    '<div class="emlistwinner"><div class="number">$$number$$</div><div class="fullname">$$name$$</div><div class="total1">$$one$$</div><div class="total2">$$two$$</div><div class="grandtotal">$$all$$</div></div>';
+  html = html.replace("$$number$$", i + 1);
+  html = html.replace("$$name$$", people1[i].fullName);
+  html = html.replace("$$one$$", people1[i].total1);
+  html = html.replace("$$two$$", people1[i].grandFinal);
+  html = html.replace("$$all$$", people1[i].total);
+  document.querySelector(".emegteiList").insertAdjacentHTML("beforeend", html);
+  }else{
   html =
     '<div class="emlist"><div class="number">$$number$$</div><div class="fullname">$$name$$</div><div class="total1">$$one$$</div><div class="total2">$$two$$</div><div class="grandtotal">$$all$$</div></div>';
   html = html.replace("$$number$$", i + 1);
@@ -716,4 +738,5 @@ for (let i = 0; i < people1.length; i++) {
   html = html.replace("$$two$$", people1[i].grandFinal);
   html = html.replace("$$all$$", people1[i].total);
   document.querySelector(".emegteiList").insertAdjacentHTML("beforeend", html);
+  }
 }
