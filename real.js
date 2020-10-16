@@ -10,7 +10,7 @@ var emegtei = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -24,7 +24,7 @@ var emegtei = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -38,7 +38,7 @@ var emegtei = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -52,7 +52,7 @@ var emegtei = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -98,7 +98,7 @@ var emegtei = [
     grandFinal: 0,
   },
   {
-    fullName: "Uranchimeg Galbadrakh",
+    fullName: "Shur Ochirkhuu",
     day1: 0,
     day2: 0,
     day3: 0,
@@ -138,7 +138,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -152,7 +152,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -166,7 +166,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -194,7 +194,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -222,7 +222,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -236,7 +236,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -250,7 +250,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -292,7 +292,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -306,7 +306,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -320,7 +320,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -334,7 +334,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -362,7 +362,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -404,7 +404,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -418,7 +418,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -432,7 +432,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -446,7 +446,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -460,7 +460,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -474,7 +474,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -488,7 +488,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -530,7 +530,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -544,7 +544,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -558,7 +558,7 @@ var user1 = [
     day7: 10,
     day8: 10,
     day9: 0,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -599,8 +599,8 @@ var user1 = [
     day6: 0,
     day7: 0,
     day8: 0,
-    day9: 0,
-    day10: 0,
+    day9: 10,
+    day10: 10,
     grandFinal: 0,
   },
   {
@@ -614,7 +614,7 @@ var user1 = [
     day7: 0,
     day8: 0,
     day9: 10,
-    day10: 0,
+    day10: 10,
     grandFinal: 0,
   },
 ];
